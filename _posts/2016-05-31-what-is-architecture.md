@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is architecture?"
-date: 2014-04-30
+date: 2016-05-31
 ---
 
 I always think that a good way to define a word is to start by it’s origin. Well, architecture comes from architect, that comes from the Greek word “arkhitekton”, which means "master builder, director of works”. The word itself it’s an invention of the modern world, given that before the renascence, buildings weren’t planned buy a “director” but were an achievement of a group. That is the reason why we don’t have famous architects to talk about before the XIV century, although we do have famous architecture.
