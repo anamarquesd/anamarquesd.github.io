@@ -10,5 +10,5 @@ But when I think about an architecture that can be robotic, I think about someth
 <a href="#">https://www.youtube.com/watch?v=BSEVoFi9MpQ</a></li>
 
 A second example I would like to mention is a more ludic, less functional façade, developed for the Sochi 2014 Winter Olympics. The building has a structure that can transform in three dimensions and form the faces of visitors. The structure changes every minute, based on the images captured by a 3D camera, within the building. This video shows better how the process work:
-<a href="https://www.youtube.com/watch?v=_ZvUe5UTtB8">
+<a href="https://www.youtube.com/watch?v=_ZvUe5UTtB8">https://www.youtube.com/watch?v=_ZvUe5UTtB8</a>
 
