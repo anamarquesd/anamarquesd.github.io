@@ -9,7 +9,7 @@ First of all, what is the difference between these two questions? When I think a
 ![](/images/87_2Lg.jpg)
 
 But when I think about an architecture that can be robotic, I think about something more tangible, that don’t look so far away from the present, that in fact, already exist, in a way so timid, that the robotic aspect is almost unnoticed, while architecture and art surpasses it. The first example, of an existing architecture like that I would like to mention are the automatic shading devices at façades. We can find more then one example of this new architecture improvement, but one that I really like is the one completed in 2012 at the Al Bahr Towers, by Aedas Architects. The tower has a shading system to protect the glass façade against heat gain that changes along the day, based on the sun position. The video at the following link talk more about the project: (If you just want to see the motion jump to minute 1:23) 
-<a href="#">https://www.youtube.com/watch?v=BSEVoFi9MpQ</a></li>
+<a href="https://www.youtube.com/watch?v=BSEVoFi9MpQ">"https://www.youtube.com/watch?v=BSEVoFi9MpQ"</a>
 
 ![](/images/download.jpeg)
 
