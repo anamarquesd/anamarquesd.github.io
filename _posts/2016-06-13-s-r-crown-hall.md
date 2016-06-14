@@ -10,5 +10,5 @@ The division with the exterior is made with glass. In the bottom line was used a
 
 S. R. Crown Hall is definitely considered a masterpiece. In 1997 it was declared a City of Chicago Landmark and in 2001, a National Historic Landmark, even though the building was not 50 years yet.
 
-![](/images/009_Vision_01001_IIT_CGG_001bw.jpgg)
+![](/images/009_Vision_01001_IIT_CGG_001bw.jpg)
 Image by: Corey Gaffer
